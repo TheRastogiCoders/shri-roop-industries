@@ -24,7 +24,7 @@ export const company = {
 } as const;
 
 export const brochure = {
-  href: "/docs/shree-roop-industries-brochure.pdf",
+  href: "/docs/Shree-Roop-Industries-Brochure.pdf",
   label: "Company brochure",
   filename: "Shree-Roop-Industries-Brochure.pdf",
   pages: 4,
